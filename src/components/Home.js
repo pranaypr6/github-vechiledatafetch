@@ -10,7 +10,9 @@ function Home() {
           <h1 className=" text-white">Home</h1>
 
           <ul className=" text-white">
-            <li>GET DETAILS OF ANY CAR WITH REALEASE YEAR AND BRAND </li>
+            <li>
+              GET DETAILS OF ANY VECHILE WITH VEHICLE IDENTIFICATION NUMBER{" "}
+            </li>
             <li>FETCH GITHUB PROFILES </li>
           </ul>
         </Col>

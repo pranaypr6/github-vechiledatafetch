@@ -35,7 +35,9 @@ const Cars = () => {
 
   return (
     <div className="pt-5 text-center text-white">
-      <h1 className=" text-white">Search for cars data</h1>
+      <h2 className=" text-white mt-5">
+        Search for vechiles data with vehicle identification number
+      </h2>
       {error && <Alert message="Please enter valid details" type="error" />}
       {loading && (
         <div className="example">

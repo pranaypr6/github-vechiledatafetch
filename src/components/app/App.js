@@ -32,7 +32,7 @@ function App() {
         <Col xs={12} md={4}>
           <Button type="primary" className="ml-5 mb-2" size="large">
             <Link to="getcarsinfo" className="p-2 text-white">
-              Search for Vechiles here
+              Search Vechiles here
             </Link>
           </Button>
         </Col>
