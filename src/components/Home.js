@@ -1,5 +1,6 @@
 import React from "react";
 import { Row, Col } from "react-bootstrap";
+import { navigate, Redirect } from "@reach/router";
 
 function Home() {
   return (
